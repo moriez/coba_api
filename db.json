@@ -1,0 +1,23 @@
+{
+"producs":[
+{"id":1,"name":"Tortoise, desert","category":"Green"},
+{"id":2,"name":"Great horned owl","category":"Maroon"},
+{"id":3,"name":"Potoroo","category":"Orange"},
+{"id":4,"name":"Squirrel, palm","category":"Orange"},
+{"id":5,"name":"Eurasian red squirrel","category":"Aquamarine"},
+{"id":6,"name":"Common langur","category":"Violet"},
+{"id":7,"name":"Lory, rainbow","category":"Yellow"},
+{"id":8,"name":"Pelican, australian","category":"Violet"},
+{"id":9,"name":"Ibis, sacred","category":"Teal"},
+{"id":10,"name":"Bee-eater (unidentified)","category":"Puce"},
+{"id":11,"name":"Serval","category":"Goldenrod"},
+{"id":12,"name":"Thirteen-lined squirrel","category":"Teal"},
+{"id":13,"name":"Otter, north american river","category":"Green"},
+{"id":14,"name":"Bushbuck","category":"Puce"},
+{"id":15,"name":"Dragon, frilled","category":"Goldenrod"},
+{"id":16,"name":"Possum, golden brush-tailed","category":"Indigo"},
+{"id":17,"name":"Robin, white-throated","category":"Turquoise"},
+{"id":18,"name":"Turaco, violet-crested","category":"Turquoise"},
+{"id":19,"name":"White-tailed deer","category":"Maroon"},
+{"id":20,"name":"Camel, dromedary","category":"Pink"}]
+}
